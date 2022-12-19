@@ -1,3 +1,5 @@
 hakuna noma
 
 ni nmona sanam kama hujui hujiu
+
+ssh comms on [password
